@@ -1,0 +1,8 @@
+A list of references I used while working on Project 1:
+
+1. www.w3schools.com
+2. Bootstrap documentation
+3. Udacity's Intro to HTML & CSS course
+4. I asked some questions in HipChat
+5. There were some helpful posts on Piazza
+6. Google search
